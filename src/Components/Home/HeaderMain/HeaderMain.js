@@ -1,5 +1,6 @@
 import React from 'react';
-import chair from '../../../images/chair.png'
+import chair from '../../../images/chair.png';
+
 const HeaderMain = () => {
   return (
     <main style={{height:'600px'}} className="row d-flex align-items-center">
